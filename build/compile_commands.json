@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Mehdi/Documents/Github/mb_html/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DDEBUG -DWINDOWS @CMakeFiles/mb_html.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\mb_html.dir\\Source\\Lexer.cpp.obj -c C:\\Users\\Mehdi\\Documents\\Github\\mb_html\\Source\\Lexer.cpp",
+  "file": "C:/Users/Mehdi/Documents/Github/mb_html/Source/Lexer.cpp",
+  "output": "CMakeFiles/mb_html.dir/Source/Lexer.cpp.obj"
+},
+{
+  "directory": "C:/Users/Mehdi/Documents/Github/mb_html/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DDEBUG -DWINDOWS @CMakeFiles/mb_html.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\mb_html.dir\\Source\\main.cpp.obj -c C:\\Users\\Mehdi\\Documents\\Github\\mb_html\\Source\\main.cpp",
+  "file": "C:/Users/Mehdi/Documents/Github/mb_html/Source/main.cpp",
+  "output": "CMakeFiles/mb_html.dir/Source/main.cpp.obj"
+}
+]

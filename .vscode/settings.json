@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "*.tpp": "cpp",
+    "*.h": "cpp",
+    "bitset": "cpp",
+    "string_view": "cpp",
+    "__locale": "cpp",
+    "string": "cpp",
+    "array": "cpp",
+    "memory": "cpp",
+    "format": "cpp",
+    "istream": "cpp",
+    "functional": "cpp",
+    "tuple": "cpp",
+    "utility": "cpp",
+    "variant": "cpp",
+    "locale": "cpp"
+  }
+}

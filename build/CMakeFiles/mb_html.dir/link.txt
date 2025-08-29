@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\mb_html.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\mb_html.dir/objects.a @CMakeFiles\mb_html.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\mb_html.dir/objects.a -Wl,--no-whole-archive -o mb_html-lib\mb_html.exe -Wl,--out-implib,libmb_html.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\mb_html.dir\linkLibs.rsp

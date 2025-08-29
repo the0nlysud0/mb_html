@@ -1,0 +1,4 @@
+C:/Users/Mehdi/Documents/Github/mb_html/build/CMakeFiles/mb_html.dir
+C:/Users/Mehdi/Documents/Github/mb_html/build/CMakeFiles/copy_assets.dir
+C:/Users/Mehdi/Documents/Github/mb_html/build/CMakeFiles/edit_cache.dir
+C:/Users/Mehdi/Documents/Github/mb_html/build/CMakeFiles/rebuild_cache.dir
